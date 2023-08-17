@@ -21,7 +21,7 @@
 Open terminal and type the following command
 ```
 git clone https://github.com/DragoVeizen/Encrypted_Chat_App
-
+```
 ### Usage
 Start by running the server side script by opening command prompt at project root directory and type 
 ```
